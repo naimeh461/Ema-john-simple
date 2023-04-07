@@ -2,3 +2,13 @@
     margin: auto;
     margin-top: 100px;
 }
+.btn-proceed{
+    width: 421px;
+    height: 56px;
+    background: #FF9900;
+    border-radius: 4px;
+    font-size: 21px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
